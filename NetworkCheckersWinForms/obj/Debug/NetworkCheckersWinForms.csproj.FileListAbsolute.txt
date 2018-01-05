@@ -1,0 +1,10 @@
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\bin\Debug\NetworkCheckersWinForms.exe.config
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\bin\Debug\NetworkCheckersWinForms.exe
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\bin\Debug\NetworkCheckersWinForms.pdb
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.Form1.resources
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.Properties.Resources.resources
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.csproj.GenerateResource.Cache
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.exe
+c:\users\mediff\documents\visual studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.pdb
+C:\Users\Mediff\Documents\Visual Studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.StartClientForm.resources
+C:\Users\Mediff\Documents\Visual Studio 2015\Projects\NetworkCheckersWinForms\NetworkCheckersWinForms\obj\Debug\NetworkCheckersWinForms.StartServerForm.resources
